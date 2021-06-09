@@ -1,0 +1,13 @@
+		Contactos guardados
+
+Nombre:jose francisco
+Numero:3317544381
+
+Nombre:adelaida
+Numero:3338413424
+
+Nombre:miguel luna
+Numero:3384555555		Contactos guardados
+
+Nombre:sonsolico
+Numero:123123132

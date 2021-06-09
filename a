@@ -1,0 +1,38 @@
+[33mcommit 0eef88a7a106baf60faada97eb6ca4d983e326b2[m[33m ([m[1;36mHEAD -> [m[1;32mmamalona[m[33m, [m[1;31morigin/mamalona[m[33m)[m
+Author: 1Franciscoluna1 <pacolunahdz@hotmail.com>
+Date:   Sun Jun 6 23:10:27 2021 -0500
+
+    ya puedes agregar nuevos contactos y visualizarlos funciones(A y F)
+
+[33mcommit b66f0f96e598ad2c14b1748ee7625dfbc243a3c9[m
+Author: 1Franciscoluna1 <pacolunahdz@hotmail.com>
+Date:   Sun Jun 6 14:44:43 2021 -0500
+
+    punto medio, no lee el archivo binario
+
+[33mcommit c34c938efabc9ad368a1f17fa3c132788c47152a[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6bec13f 6c5895f
+Author: 1Franciscoluna1 <79699384+1Franciscoluna1@users.noreply.github.com>
+Date:   Thu Jun 3 23:59:30 2021 -0500
+
+    Merge pull request #1 from 1Franciscoluna1/sencilla
+    
+    Sencilla
+
+[33mcommit 6c5895fdc3ff8c65933a3619e696d84af76c96e5[m[33m ([m[1;31morigin/sencilla[m[33m, [m[1;32msencilla[m[33m)[m
+Author: 1Franciscoluna1 <79699384+1Franciscoluna1@users.noreply.github.com>
+Date:   Thu Jun 3 23:53:47 2021 -0500
+
+    Agenda terminada, solo la sencilla que llena el txt
+
+[33mcommit 4a79c7b6526d1c6a91c4f5b708bb84eb7d5d1165[m
+Author: 1Franciscoluna1 <79699384+1Franciscoluna1@users.noreply.github.com>
+Date:   Thu Jun 3 21:57:59 2021 -0500
+
+    Se comento la parte del menu que no se utilizara
+
+[33mcommit 6bec13f064962ae1be3d3db2d13f707939aff074[m
+Author: 1Franciscoluna1 <79699384+1Franciscoluna1@users.noreply.github.com>
+Date:   Thu Jun 3 21:54:14 2021 -0500
+
+    Menu terminado
